@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Mohammad Navid\Desktop\New folder\P-2.asc
+
+.OP point found by inspection.
+
+Date: Tue Aug 14 01:57:52 2018
+Total elapsed time: 0.060 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2462
+traniter = 2462
+tranpoints = 1167
+accept = 1120
+rejected = 47
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 182 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 368 bytes object code size  0.1/0.1/[0.1]
+
